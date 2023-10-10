@@ -1,5 +1,7 @@
-.h1 {
-    background: orange;
-  }
-  
- 
+div {background-color: pink;}
+.hienompi {background-color: aquamarine;}
+.parempi {background-color: yellow;}
+#lopetus {
+    background: none;
+    text-align: center;}
+body {max-width: 700px; margin: auto; font-family: 'Times New Roman', Times, serif;}
