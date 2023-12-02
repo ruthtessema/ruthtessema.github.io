@@ -23,13 +23,16 @@ padding-bottom: 25px;
 
 }
 
+/*Tuote kuvaukset ja tuote kortit itsessään */
+
+
 
 .card-body {
     box-shadow: 3px 6px 6px #ccc;
 
 }
 
-
+.btn btn-primary 
 
 
 
