@@ -1,0 +1,100 @@
+/* NAVBAR*/
+
+/* HEADER*/
+/* HEADER*/
+
+/* NAVBAR*/
+
+/* MAIN CONTENT */
+body {
+    background: linear-gradient(#fbf4b9, #c5fcda);
+
+}
+
+
+/* BANNER*/
+.card-banner {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(#c5fcda, #7f751e, #c5fcda);
+}
+/* BANNER*/
+
+
+
+/*carousel - images */
+
+#booknowimg img{
+    
+    max-width: 100%; 
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px
+}
+
+/*France Carousel */
+#carouselExampleControls-france .carousel-item img {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  /* Malta Carousel */
+  #carouselExampleControls-malta .carousel-item img {
+    height: 300px; 
+    object-fit: cover; 
+  }
+  
+  /*Italy Carousel */
+  #carouselExampleControls-italy .carousel-item img {
+    height: 300px; 
+    object-fit: cover;
+  }
+  
+  
+  /*cards */
+  .card-body {
+    justify-items: auto;
+    padding: 10px;
+    }
+
+  .card {
+    border-image: round; 
+    object-fit: cover;
+    margin-bottom: 20px; /* Add space between cards */
+    background-color: #b3f5ff82;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /*card titles */
+  .card-title {
+    font-size: 1.5rem; /* Increase title font size */
+    margin-bottom: 10px; /* Add space below the title */
+  }
+  
+  /*card texts */
+  .card-text {
+    color: #666; /* Change text color */
+  }
+  
+  /* Card buttons */
+  .btn-primary {
+    background-color: #ffffff; /* Change button background color */
+    border-color: #ffffff; /* Change button border color */
+    color: black ;
+  }
+  
+  .btn-primary:hover {
+    background-color:#989898 ; /* button background color on hover */
+    border-color: #9fffc4; /* button border color on hover */
+    color: #67bac6; /* button text color on hover */
+  }
+
+/* Carousel cards*/
+
+/* Sää Forecast*/
+.sää-ennustus{
+    text-align: center;
+    background: linear-gradient(rgb(255, 255, 177), rgb(255, 199, 94));
+}
+/* Sää Forecast*/
+
+/* MAIN CONTENT*/
