@@ -1,0 +1,105 @@
+.first-color { 
+	background: #894949; 
+}
+	
+.second-color { 
+	background: #b2704e; 
+}
+
+.third-color { 
+	background: #cd9d77; 
+}
+
+.fourth-color { 
+	background: #fcc0c0; 
+}
+
+/* MUISTA LINE-HEIGHT TEXTIS JA FONTIT*/
+
+
+/* NAVBBAR */
+.btn-outline-success {
+  color: black;
+}
+/* NAVBBAR */
+
+
+/* HEADER */
+
+
+/* HEADER */
+
+
+
+/* BANNER ND NEWSLETTER */
+
+
+.signup-form {
+  padding-top: 25px;
+  padding-bottom: 5px;
+  margin: 30px;
+
+
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: #fcc0c0; 
+}
+
+.signup {
+  text-align: center;
+}
+
+/* BANNER ND NEWSLETTER */
+
+
+
+
+
+
+/* ARTICLES = Tuote kuvaukset ja tuote kortit itsessään */
+.card-body {
+    overflow: hidden; 
+    padding-top: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+.card {
+  box-shadow: 15px 13px 18px 15px rgba(0, 0, 0, 0.2);
+
+  border: 1px solid #ccc;
+  border-radius: 8px;
+
+  overflow: hidden; /* Hide overflowing content */
+
+  margin: 50px; /* Adjust margin as needed */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+
+  width: 100%;
+  height: auto;
+
+  display: block;
+  object-fit: cover;
+}
+
+.btn {
+  
+
+}
+
+
+/*Footer COPY RIGHT BAR*/
+
+.footer py-3 mt-auto {
+  height: 100px;
+  justify-content: center;
+
+}
+
+
+
+
+
